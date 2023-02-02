@@ -1,0 +1,17 @@
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\bin\Debug\net6.0\Spring23.exe
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\bin\Debug\net6.0\Spring23.deps.json
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\bin\Debug\net6.0\Spring23.runtimeconfig.json
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\bin\Debug\net6.0\Spring23.dll
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\bin\Debug\net6.0\Spring23.pdb
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\Spring23.csproj.AssemblyReference.cache
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\Spring23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\Spring23.AssemblyInfoInputs.cache
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\Spring23.AssemblyInfo.cs
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\Spring23.csproj.CoreCompileInputs.cache
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\Spring23.dll
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\refint\Spring23.dll
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\Spring23.pdb
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\Spring23.genruntimeconfig.cache
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\ref\Spring23.dll
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\boras\OneDrive\Desktop\MIS321\PA1\mis321-pa1-tboraski\obj\Debug\net6.0\Spring23.csproj.CopyComplete
